@@ -1,6 +1,6 @@
-# PyLimitBook
+# LimitBook
 
-PyLimitBook is an implementation of a fast limit-order book for level-2 US equities data written in Python. It includes some tools to output sampled data as well as a curses-based application to view the book and move forward or backward in time.
+LimitBook is an implementation of a fast limit-order book for level-2 US equities data written in Python. It includes some tools to output sampled data as well as a curses-based application to view the book and move forward or backward in time.
 
 Input files must be for a single day, symbol, and exchange.
 
@@ -15,7 +15,7 @@ You should then be able to run the applications in the `bin` directory.
 
 ## Input Data Format
 
-PyLimitBook applications expect the following input format (in a CSV file):
+LimitBook applications expect the following input format (in a CSV file):
 
 * bids:
 
