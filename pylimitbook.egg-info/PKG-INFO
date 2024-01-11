@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pylimitbook
+Version: 20161102
+Summary: Fast limit-order book
+Home-page: https://github.com/danielktaylor/PyLimitBook
+Author: Daniel K Taylor
+License: MIT
+License-File: LICENSE.md
